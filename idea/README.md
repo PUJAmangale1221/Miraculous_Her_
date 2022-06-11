@@ -22,7 +22,7 @@
 
 
 ## Tech Stack:
--HTML
--CSS
--React
--Nodejs
+- HTML
+- CSS
+- React
+- Nodejs
