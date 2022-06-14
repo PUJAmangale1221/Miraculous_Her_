@@ -24,5 +24,7 @@
 ## Tech Stack:
 - HTML
 - CSS
+- JavaScript
 - React
 - Nodejs
+-
