@@ -25,6 +25,7 @@
 - HTML
 - CSS
 - JavaScript
+- PHP
 - React
 - Nodejs
 
