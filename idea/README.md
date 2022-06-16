@@ -20,6 +20,11 @@
 - Certificates certified by our plateforms are given to each customer upon finishing a skill course.
 - Ratings and Reviews can be added for each course and product for sale.
 
+## Azure Cognitive Services:
+- **Speech To Text** for easier searching.
+- **Text Translation** to accommodating the website for everyone.
+- **Azure Media Player** for playback video services.
+
 
 ## Tech Stack:
 - HTML
